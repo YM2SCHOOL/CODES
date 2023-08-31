@@ -9,9 +9,7 @@ pen.color("black")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("The  EGYPT Flag by YM2 School",
-          align="center",
-          font=("Arial", 24, "normal"))
+pen.write("The  EGYPT Flag by YM2 School",align="center",font=("Arial", 24, "normal"))
 
 
 Screen = turtle.Screen()
